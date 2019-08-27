@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="InitializedSSH:war">
+    <output-path>$PROJECT_DIR$/../InitializedSSH/target</output-path>
+    <root id="archive" name="InitializedSSH-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="InitializedSSH:war exploded" />
+    </root>
+  </artifact>
+</component>
